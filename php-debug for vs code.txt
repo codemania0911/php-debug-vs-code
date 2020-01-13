@@ -1,5 +1,6 @@
 Install Xampp
 
+
 Go to https://xdebug.org/wizard and copy PHPinfo (of your local computer) content in the textarea.
 
 Press the button analyze.
