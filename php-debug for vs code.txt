@@ -7,6 +7,7 @@ Press the button analyze.
 
 Download php_xdebug-2.7.2-7.3-vc15-x86_64.dll and copy it into xampp/php/ext
 
+
 Add the following content to php.ini file
 
 [XDebug] xdebug.remote_enable=1 xdebug.remote_autostart=1 zend_extension = "C:\xampp\php\ext\php_xdebug-2.7.2-7.3-vc15-x86_64 .dll"
