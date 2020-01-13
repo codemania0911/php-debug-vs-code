@@ -20,6 +20,7 @@ Add the following content to settings.json in vs code.
 
 Install PHP debug extension. (Go to extensions tab in vs-code)
 
+
 Add the following content to launch.json in vs code.
 
 
